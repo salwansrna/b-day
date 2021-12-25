@@ -154,14 +154,7 @@ const _slideLima = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Assalamualaikum Wr. Wb", " ", `Saya ${a[0]} pada hari ${timestring} dengan sepenuh hati mengucapkan, ~ `, "<b>Selamat Ulang Tahun</b>", " ", `Kepada ${a[1]}, semoga kamu panjang umur, dan bahagia selalu. Aamiin. Sekian surat pernyataan dari saya`, , " ", "Wassalamualakaikum Wr. Wb", " ", "- "+a[0]],
-  startDelay: 4000,
-  speed: 75,
-  waitUntilVisible: true
-}).go();
-
-new TypeIt("#teks2", {
-  strings: ["Haii Sayang!!", "Happy Birthday ya..", " ", "Ciie udah bertambah tua aja, semoga di umur yang sekarang kamu bisa jadi pribadi yang lebih baik lagi, lebih rajin, lebih sholehah, dan lebih berbakti.", "Maaf ya aku gabisa kasih surprise yang romantis. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka ya :)", "Sekali lagi, Selamat Ulang Tahun ya. Semoga semua impian, keinginan, dan harapan kamu bisa tercapai, Aamiin."],
+  strings: ["Haii kimett!!", "Happy Birthday ya..", " ", "semoga di umur yang sekarang kamu bisa jadi pribadi yang lebih baik lagi.", "Maaf ya aku gabisa kasih surprise secara langsung. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka ya :)", "Sekali lagi, Selamat Ulang Tahun yaa aa kasep. Semoga semua impian, keinginan, dan harapan kamu bisa tercapai, Aamiin."],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
